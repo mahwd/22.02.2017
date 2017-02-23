@@ -1,0 +1,158 @@
+.jessica-white {
+  margin-top: 25px;
+  height: 70px;
+}
+
+.logo {
+height: 100%;
+background-image: url(../img/Selection_002.png);
+background-size: cover;
+}
+.main-menu {
+height: 100%;
+}
+.social-media.icons{
+width: 50%;
+}
+.menu{
+height: 50%;
+}
+.main-image {
+  margin-top: 10px;
+  height: 450px;
+  background-image: url(../img/1_003.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.social-media-icons ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.social-media-icons ul li {
+width: 30px;
+height: 30px;
+border-radius: 50%;
+background: #ccc;
+color: #fff;
+line-height: 30px;
+text-align: center;
+text-shadow: 1px 2px 1px #aaa;
+box-shadow: 1px 1px 1px #ccc;
+}
+.menu ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 12px;
+  line-height: 18px;
+}
+.menu ul a{
+  height: 18px;
+  color: #000;
+  font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-top: 10px;
+  text-shadow: 1px 2px 1px #aaa;
+}
+                                                /*4 icons*/
+.icon-div{
+  margin: 40px 0px;
+}
+.icon-div>div ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-decoration: none;
+}
+.icon-div a,li,h1,p {
+  text-decoration: none;
+  color:#000;
+}
+.icon-div p {
+font-size: 12px;
+text-shadow: 1px 2px 1px #aaa;
+
+}
+.icon-div h1 {
+font-size: 18px;
+text-shadow: 1px 2px 1px #aaa;
+
+}
+.section3-h {
+  margin-top: 5px;
+  line-height: 1;
+  font-size: 18px;
+  color: #000;
+  font-weight: bold;
+  text-shadow: 1px 2px 1px #aaa;
+
+}
+.future-heading {
+  height: 50px;
+}
+.left-text {
+  line-height: 50px;
+  text-shadow: 1px 2px 1px #aaa;
+}
+.right-logo {
+  line-height: 50px;
+  font-size: 12px;
+  text-shadow: 1px 2px 1px #aaa;
+  text-align: right;
+  padding-right: 25px;
+}
+.featured-images {
+  height: 230px;
+}
+.image-container {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: #fff;
+}
+.images {
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background: #fff;
+}
+.images img {
+  border-radius:5px;
+  width: 100%;
+  height: 90%;
+  box-shadow: 2px 2px 2px #aaa;
+}
+.images img:hover {
+  width: 105%;
+  height: 93%;
+  box-shadow: 5px 5px 5px #000;
+}
+.egestas {
+
+}
+.egestas h1 {
+  padding: 0;
+  margin: 0 0 19px 0;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #313131;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 800;
+  font-size: 21px;
+}
+.egestas p {
+font-family: Arial;
+font-size: 12px;
+line-height: 18px;
+color: #313131;
+}
+.egestas p a {
+text-decoration: none;
+color: red;
+}
+.news{
+
+}
