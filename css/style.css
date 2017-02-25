@@ -64,7 +64,7 @@
   font-weight: bold;
 }
 .wrap{
-  width: 1200px;
+  width: 1150px;
   height: inherit;
   margin: 0 auto;
 }
@@ -114,9 +114,20 @@
   clear: both;
   height: 10px;
 }
+.cl-2 {
+  clear: both;
+  width: 20px;
+}
 [class*="col"] {
   box-sizing: border-box;
 }
+
+/*other classes*/
+
+* {
+  transition: all .7s ease;
+}
+
 .background {
   border: 1px solid #000;
 }
@@ -130,7 +141,7 @@
   margin:0 auto;
   text-align: center;
 }
-hr.style14 {
+.style14 {
   border: 0;
   height: 1px;
   background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
